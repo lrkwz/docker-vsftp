@@ -13,8 +13,6 @@ COPY etc/vsftpd.conf /etc/vsftpd.conf
 COPY etc/vsftpd_user_conf/* /etc/vsftpd_user_conf/
 COPY etc/pam.d/* /etc/pam.d/
 COPY etc/init.d/vsftpd /etc/init.d/
-#RUN mkdir /etc/service/vsftpd
-#ADD etc/service/vsftpd/vsftpd.sh /etc/service/vsftpd/run
 RUN apt-get install -y ftp
 
 RUN mkdir /etc/vsftpd && \

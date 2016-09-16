@@ -7,5 +7,5 @@ Obiettivo:
 
 
 See
- * [how to setup virtual users for vsftpd with access to a specific sub directory](http://askubuntu.com/questions/575523/how-to-setup-virtual-users-for-vsftpd-with-access-to-a-specific-sub-directory)
+* [how to setup virtual users for vsftpd with access to a specific sub directory](http://askubuntu.com/questions/575523/how-to-setup-virtual-users-for-vsftpd-with-access-to-a-specific-sub-directory)
 * [Admin via web](https://github.com/Tvel/VsftpdWeb)
