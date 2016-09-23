@@ -16,5 +16,5 @@ What's in it:
 * ```Dockerfile``` is the magic glue for all this stuff
 
 See
-* [how to setup virtual users for vsftpd with access to a specific sub directory](http://askubuntu.com/questions/575523/how-to-setup-virtual-users-for-vsftpd-with-access-to-a-specific-sub-directory)
+* [how to setup virtual users for vsftpd with access to a specific sub directory](http://askubuntu.com/a/575825/18562)
 * [Admin via web](https://github.com/Tvel/VsftpdWeb)
